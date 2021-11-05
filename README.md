@@ -1,2 +1,5 @@
 # Hello-World
-Les 1 opdracht 8
+
+My first repository on Github
+
+I love 🎵, 🎮 & 🍺 made in 🇧🇪
